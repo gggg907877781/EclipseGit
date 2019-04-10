@@ -5,6 +5,5 @@ public class HelloWorld {
 		System.out.println("Hello World !");
 		System.out.println("ssssssssssssssss");
 		System.out.println("wwwwwwwwwwwwwwwwww");
-		System.out.println("aaaaaa");
 	}
 }
